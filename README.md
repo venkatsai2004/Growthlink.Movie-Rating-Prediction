@@ -46,8 +46,7 @@ The model predicts IMDb movie ratings with reasonable accuracy.
 ## Repository Structure
 - `Growthlink.ipynb` – Jupyter Notebook containing all steps
 - `README.md` – Project documentation
-- `requirements.txt` – Dependencies for easy setup
-
+  
 ## Future Improvements
 - Experiment with different models (XGBoost, Linear Regression, etc.)
 - Perform hyperparameter tuning for better accuracy
